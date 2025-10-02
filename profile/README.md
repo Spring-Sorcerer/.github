@@ -23,13 +23,8 @@ Our repository hub will grow into a **one-stop space for Spring Boot developers*
 
 ## 🧑‍💻 About the Founder
 
-<h2 align="center">Hello World 👋, I'm </h2>  
-<h1 align="center">BISWAJEET MISHRA</h1>  
-<h3 align="center">An enthusiastic Full-Stack Java Developer with extensive knowledge of libraries and frameworks.</h3>
+<h2 align="center">Hello World 👋, I'm BISWAJEET MISHRA</h2>  
 
-<p align="center"> 
-  <img alt="Coder GIF" height=250 width=500 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</p>
 
 🔭 Currently working at **Raconsys Consultancy Services**  
 🌱 Exploring **MERN Stack** + **Spring Boot**  
